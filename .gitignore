@@ -1,0 +1,13 @@
+.*
+
+!.dockerignore
+!.env
+!.eslintrc
+!.gitignore
+!.prettierrc
+!.sequelizerc
+
+*.sqlite
+
+coverage/
+node_modules/

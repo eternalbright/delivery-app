@@ -1,0 +1,14 @@
+.*
+
+!.sequelizerc
+
+*.md
+*.sqlite
+*.yaml
+
+CODEOWNERS
+docker-compose.yaml
+
+coverage/
+node_modules/
+tests/
